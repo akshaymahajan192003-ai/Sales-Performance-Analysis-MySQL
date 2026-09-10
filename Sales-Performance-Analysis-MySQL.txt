@@ -3,3 +3,50 @@ Sales-Performance-Analysis-MySQL/
 ├── sales_analysis.sql
 ├── README.md
 └── project_results.txt
+Sales-Performance-Analysis-MySQL
+
+## Python Data Analysis
+
+### Sales Performance Analysis using Python
+
+The same sales dataset was analyzed using Python to calculate business KPIs and identify sales trends.
+
+### Libraries Used
+
+* Pandas
+* NumPy
+* Matplotlib
+
+### Analysis Performed
+
+* Total revenue and sales KPIs
+* Monthly sales analysis
+* Product revenue analysis
+* City-wise sales analysis
+* Category sales analysis
+* Top customer analysis
+* Quantity sold by product
+* Revenue vs. quantity comparison
+
+### Key Results
+
+* **Total Revenue:** ₹294,400
+* **Total Orders:** 10
+* **Total Units Sold:** 24
+* **Average Order Value:** ₹29,440
+* **Top Revenue Product:** Laptop — ₹115,000
+* **Top Quantity Product:** Keyboard — 7 units
+* **Top Revenue City:** Pune — ₹145,000
+* **Top Category:** Electronics — 92.73% of revenue
+
+### Python Notebook
+
+[Open Python Analysis Notebook](Sales_Performance_Analysis_Python.ipynb)
+
+## Power BI Dashboard
+
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+
+## Technologies Used
+
+**MySQL | SQL | Power BI | Power Query | Python | Pandas | NumPy | Matplotlib**
