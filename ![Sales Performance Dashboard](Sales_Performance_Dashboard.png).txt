@@ -1,0 +1,86 @@
+SALES PERFORMANCE ANALYSIS - PROJECT RESULTS
+=============================================
+
+DATABASE
+--------
+Database: sales_project
+Table: sales
+Total Records: 10
+
+
+OVERALL KPIs
+------------
+Total Revenue: ₹294,400
+Total Orders: 10
+Total Customers: 10
+Total Units Sold: 24
+Average Order Value: ₹29,440
+Highest Order Value: ₹60,000
+Lowest Order Value: ₹4,000
+
+
+TOP PRODUCT BY REVENUE
+----------------------
+Laptop: ₹115,000
+
+
+TOP PRODUCT BY QUANTITY
+-----------------------
+Keyboard: 7 units
+
+
+TOP CITY BY REVENUE
+-------------------
+Pune: ₹145,000
+
+
+BEST MONTH
+----------
+January 2026: ₹111,000
+
+
+CATEGORY PERFORMANCE
+--------------------
+Electronics: ₹273,000 (92.73%)
+Accessories: ₹21,400 (7.27%)
+
+
+TOP CUSTOMERS
+-------------
+Neha Deshmukh: ₹60,000
+Pooja Mehta: ₹60,000
+Rahul Sharma: ₹55,000
+
+
+LOWEST PRODUCT REVENUE
+----------------------
+Mouse: ₹4,000
+
+
+KEY BUSINESS INSIGHTS
+---------------------
+1. Electronics is the dominant revenue category.
+2. Laptop generates the highest revenue despite selling only 2 units.
+3. Keyboard has the highest unit sales.
+4. Pune generates the highest total revenue.
+5. January is the strongest month in the dataset.
+6. Mouse has the lowest revenue contribution.
+7. Laptop and Mobile together generate 76.42% of total revenue.
+
+
+SQL ANALYSIS COMPLETED
+----------------------
+- Total revenue analysis
+- Order analysis
+- Customer analysis
+- Product performance
+- Category performance
+- Monthly sales analysis
+- City-wise sales analysis
+- Revenue percentage analysis
+- Average order value
+- Top and lowest products
+- Top customers
+- Overall business KPI analysis
+
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
